@@ -93,5 +93,6 @@ class ApiSpec extends FunctionalSpec {
     "arthur/to/from"          | "How shall to fuck off, O Lord? - from"
     "ceccoangiolieri/to/from" | "to, s'i' so' buon begolardo, - tu me ne tien' ben la lancia a le reni; - s'i' desno con altrui, e tu vi ceni; - s'io mordo 'l grasso, e tu vi sughi el lardo; - s'io cimo 'l panno, e tu vi freghi el cardo. - from"
     "boehner/from"            | "While thousands of programs and employees were deemed \"non-essential\" and suspended or furloughed, one of the few government costs deemed essential to maintain during the  shutdown has been the Congressional gym. Oh no, please, don't get out of the pool, Mr. Boehner. This fuck you is waterproof. - from"
+    "british/to/from"         | "Thanks a bunch, to! - from"
   }
 }
